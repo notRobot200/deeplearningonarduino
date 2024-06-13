@@ -9,13 +9,14 @@ Scissors: Triggers an alarm
 The following hardware and software were used in this project.
 
 Hardware:
-- breadboard 830 point mb-102
-- arduino UNO r3 ch340
-- arduino UNO cable 30cm
-- male to male jumper cables
-- led green and red
-- buzzer
-- laptop that has a webcam
+- Breadboard 830 point mb-102
+- Arduino UNO r3 ch340
+- Arduino UNO cable 30cm
+- Male to male jumper cables
+- Led green and red
+- Buzzer
+- Laptop that has a webcam
   
 Software:
-- 
+- Arduino IDE
+- PyCharm
