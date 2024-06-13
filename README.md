@@ -23,3 +23,13 @@ Hardware:
 Software:
 - Arduino IDE
 - PyCharm
+
+Here is the documentation of the results of this project:
+1. Rock
+   ![led_green](https://github.com/notRobot200/deeplearningonarduino/assets/117140539/3fae60b0-559a-4112-93a7-4c309b2decff)
+
+2. Paper
+   ![led_red](https://github.com/notRobot200/deeplearningonarduino/assets/117140539/468a593d-1983-4546-a4d8-b81cbd672ffc)
+
+3. Scissors
+   # Soon!!!
