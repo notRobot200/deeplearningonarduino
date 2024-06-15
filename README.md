@@ -1,13 +1,11 @@
-# deeplearningonarduino
+# smartlampwitharduino
 
-This project is the result of a major assignment in the Intelligent Systems course, focusing on hardware implementation with AI. In this project, I developed a real-time Rock, Paper, Scissors detection system using a CNN model. This real-time detection is then connected to hardware with the following responses:
+This project is the result of a major assignment in the Intelligent Systems course, focusing on hardware implementation with AI. In this project, I developed a real-time Rock, Paper, Scissors detection system using MediaPipe. This real-time detection is then connected to hardware with the following responses:
 
-Rock: Turns on a green light
-
-Paper: Turns on a red light
-
-Scissors: Triggers an alarm
-
+- Rock: Turns on a green light
+- Paper: Turns on a red light
+- Scissors: Turns on a yellow light
+- Shaka sign: Turn off the light
 
 The following hardware and software were used in this project.
 
@@ -24,12 +22,6 @@ Software:
 - Arduino IDE
 - PyCharm
 
-Here is the documentation of the results of this project:
-1. Rock
-   ![led_green](https://github.com/notRobot200/deeplearningonarduino/assets/117140539/3fae60b0-559a-4112-93a7-4c309b2decff)
+Here is the link documentation of the results of this project:
 
-2. Paper
-   ![led_red](https://github.com/notRobot200/deeplearningonarduino/assets/117140539/468a593d-1983-4546-a4d8-b81cbd672ffc)
-
-3. Scissors
-   # Soon!!!
+https://drive.google.com/file/d/19TM0TfWzb1LPy-XwwHhAYOzUX6Y9MtiT/view?usp=sharing
